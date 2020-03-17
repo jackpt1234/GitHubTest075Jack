@@ -18,8 +18,9 @@ void loop(){
   else
   {
     digitalWrite(ledPin, LOW);
+    
 
-delay(1000) ;
+delay(5000) ;
   }
 }
 
